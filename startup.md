@@ -1,4 +1,5 @@
 I started by linking my local repo to the remote Github repo.Since finding a clear how-to access is quite messy online,i wrote steps bellow.
+
 🚀**first step**
 - prepare a Github account.
 - add a new repository by clicking 'New' button,and add your repository name,choose visibility.
@@ -32,3 +33,6 @@ git commit -m "describe info"
 
 # Synchronise local file modifications to the remote repository.
 git push origin branchname 
+```
+
+🎉 Congratulation!Now you have mastered basic fundamental methods for synchronising local and remote repositories,now let us learning together!
